@@ -1,6 +1,6 @@
 # Bicycle_rider_detection
 Transfer learning to detect Bicycle rider detection
-The work was inspired from https://pylessons.com/Tensorflow-object-detection-step-by-step-custom-object-detection/
+
 
 ## Process
     1.Collect dataset
