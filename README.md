@@ -57,5 +57,9 @@ since the new model_main.py ran in to error i had used previous train.py
  ## Testing
     To test image use object.py file
     To test video use object_video.py file 
+    if error occus util cant be found 
+    cd .. move to research folder
+      export PYTHONPATH=$PYTHONPATH:`pwd`:`pwd`/slim -- try to run this 
+      then python2 object_detection/object.py
         
     The work was inspired from https://pylessons.com/Tensorflow-object-detection-step-by-step-custom-object-detection/      
