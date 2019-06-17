@@ -55,7 +55,7 @@ since the new model_main.py ran in to error i had used previous train.py
         pipeline_config_path=samples/configs/faster_rcnn_inception_v2_coco.config
         
  ## Testing
-   To test image use object.py file
-   To test video use object_video.py file 
+    To test image use object.py file
+    To test video use object_video.py file 
         
- The work was inspired from https://pylessons.com/Tensorflow-object-detection-step-by-step-custom-object-detection/      
+    The work was inspired from https://pylessons.com/Tensorflow-object-detection-step-by-step-custom-object-detection/      
